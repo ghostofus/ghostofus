@@ -14,7 +14,7 @@ Je travaille actuellement sur plusieurs projets de jeux et je cherche toujours �
 
 ## **💼 Expérience professionnelle**
 
-- *2024 - aujourd’hui* : **Game Artist & Assistante Directrice Artistique** sur le projet *Figure Out*  
+- *2024* : **Game Artist & Assistante Directrice Artistique** sur le projet *Figure Out*  
 - *2024* : **Cheffe de projet** sur le jeu *Shattered Bridge*  
 - *2023* : Participation à divers game jams et projets étudiants
 
