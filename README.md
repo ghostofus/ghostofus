@@ -46,16 +46,4 @@ Je travaille actuellement sur plusieurs projets de jeux et je cherche toujours �
 
 ---
 
-## **✅ Ce fichier contient :**
-
-- [x] Une présentation  
-- [x] De l’**expérience professionnelle**  
-- [x] Une **formation**  
-- [x] Un lien vers une URL (LinkedIn)  
-- [x] Du texte en **gras**  
-- [x] Une *liste*  
-- [x] Du texte en *italique*
-
----
-
 > *ajout de mon CV markdown*
